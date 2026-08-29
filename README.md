@@ -21,7 +21,6 @@
 ╚══════════════════════════════════════════════════════════════╝
 
 
-
 <div align="center">
 👩‍💻 Hi, I'm Ana Luíza!
 </div>
@@ -62,6 +61,7 @@ profile:
 
 CORE PRINCIPLE: Learn, build, and evolve through practice.
 
+
 <div align="center">
 💻 PROGRAMMING LANGUAGES
 <img src="https://skillicons.dev/icons?i=c,java,python&theme=dark"/>
@@ -75,24 +75,18 @@ CORE PRINCIPLE: Learn, build, and evolve through practice.
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/> </div>
 04 // TOOLS.PROTOCOL
 <div align="center">
-
-╔══════════════════════════════════════════════════════════════╗
-║                     DEVELOPER CORE                           ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  NAME       :: Ana Luíza Cecílio                             ║
-║  HANDLE     :: @cecilioanaluiza                              ║
-║  ROLE       :: Developer                                     ║
-║  LOCATION   :: Brazil 🇧🇷                                     ║
-║  STATUS     :: ● ONLINE                                      ║
-║                                                              ║
-║  LANGUAGES  :: C • Java • Python                             ║
-║  DESIGN     :: Figma                                         ║
-║                                                              ║
-║  SYSTEM     :: ████████████████████████ 100%                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-
+┌────────────────────────────────────────────────────────────┐
+│                    DEVELOPMENT TOOLS                      │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  PROGRAMMING   →  C • Java • Python                        │
+│  DESIGN        →  Figma                                    │
+│  CODE          →  VS Code                                  │
+│  VERSION       →  Git • GitHub                             │
+│                                                            │
+│  APPROACH      →  Logic • Creativity • Problem Solving     │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 
 </div>
 
@@ -125,7 +119,7 @@ DESIGN MODULE
 A UI/UX project created in Figma, exploring visual composition and user experience.
 
 </td> </tr> </table> </div>
-
+06 // CURRENT.MISSION
 ┌──[ana@github]─[~/mission]
 └─$ ./development.sh
 
@@ -181,18 +175,3 @@ LEARNING MODE  :: ALWAYS ON
 <sub>© 2026 Ana Luíza Cecílio • System operational.</sub>
 
 </div>
-
-<!--
-**cecilioanaluiza/cecilioanaluiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
