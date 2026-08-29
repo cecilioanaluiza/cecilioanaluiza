@@ -16,25 +16,25 @@
 
 ---
 
-# 01 // SYSTEM.IDENTITY
+
 
 <div align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                     DEVELOPER CORE                          ║
+║                     DEVELOPER CORE                           ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  NAME       :: Ana Luíza Cecílio                             ║
 ║  HANDLE     :: @cecilioanaluiza                              ║
 ║  ROLE       :: Developer                                     ║
-║  LOCATION   :: Brazil 🇧🇷                                    ║
+║  LOCATION   :: Brazil 🇧🇷                                     ║
 ║  STATUS     :: ● ONLINE                                      ║
 ║                                                              ║
 ║  LANGUAGES  :: C • Java • Python                             ║
 ║  DESIGN     :: Figma                                         ║
 ║                                                              ║
-║  SYSTEM     :: ████████████████████████ 100%                ║
+║  SYSTEM     :: ████████████████████████ 100%                 ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -43,7 +43,7 @@
 
 ---
 
-# 02 // ABOUT.ME
+
 
 <div align="center">
 
@@ -76,7 +76,7 @@ I'm constantly learning new technologies, developing projects, and turning knowl
 │                   Problem Solving                          │
 │                   Continuous Learning                      │
 │                                                            │
-│  MINDSET       →  Learn • Build • Experiment • Improve    │
+│  MINDSET       →  Learn • Build • Experiment • Improve     │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
@@ -89,7 +89,7 @@ I'm constantly learning new technologies, developing projects, and turning knowl
 
 ---
 
-# 03 // TECH.STACK
+
 
 <div align="center">
 
@@ -113,13 +113,13 @@ I'm constantly learning new technologies, developing projects, and turning knowl
 
 ---
 
-# 04 // TOOLS.PROTOCOL
+
 
 <div align="center">
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
-│                    DEVELOPMENT TOOLS                      │
+│                    DEVELOPMENT TOOLS                       │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
 │  PROGRAMMING   →  C • Java • Python                        │
@@ -136,7 +136,7 @@ I'm constantly learning new technologies, developing projects, and turning knowl
 
 ---
 
-# 05 // PROJECT.ARCHIVE
+
 
 <div align="center">
 
@@ -210,16 +210,15 @@ UI/UX project exploring visual composition, interfaces, and user experience.
 
 ---
 
-# 06 // CURRENT.MISSION
 
 <div align="center">
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
-│                    CURRENT OBJECTIVES                     │
+│                    CURRENT OBJECTIVES                      │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
-│  [✓] Improve programming logic                            │
+│  [✓] Improve programming logic                             │
 │  [✓] Practice C                                            │
 │  [✓] Practice Java                                         │
 │  [✓] Practice Python                                       │
@@ -252,7 +251,6 @@ UI/UX project exploring visual composition, interfaces, and user experience.
 
 ---
 
-# 07 // GITHUB.MATRIX
 
 <div align="center">
 
@@ -272,7 +270,6 @@ UI/UX project exploring visual composition, interfaces, and user experience.
 
 ---
 
-# 08 // ACHIEVEMENTS.UNLOCKED
 
 <div align="center">
 
@@ -281,8 +278,6 @@ UI/UX project exploring visual composition, interfaces, and user experience.
 </div>
 
 ---
-
-# 09 // CONTRIBUTION.PROTOCOL
 
 <div align="center">
 
@@ -293,8 +288,6 @@ UI/UX project exploring visual composition, interfaces, and user experience.
 </div>
 
 ---
-
-# 10 // NETWORK.CONNECT
 
 <div align="center">
 
